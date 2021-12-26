@@ -1,8 +1,10 @@
-# UI tĩnh website bán hàng theo thiết kế của Shopee
+# SHOPEE STATIC WEBSITE
 
-## Được thiết kế dựa theo khóa học của https://fullstack.edu.vn/
+Focused on UI/UX
 
-## Công nghệ sử dụng
+## Designed base on [fullstack.edu.vn](https://www.fullstack.edu.vn)
+
+## Technologies
 
 - HTML5
 - CSS
